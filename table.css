@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    align-items: center;
+    padding-top: 50px;
+}
+table{
+    position: absolute;
+    align-items: center;
+    left: 35%;
+}
